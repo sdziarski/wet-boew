@@ -284,3 +284,5 @@
 * **La version 3.0.2 de la BOEW a été lancée le 15 novembre 2012** ([v3.0.2 - notes d'utilisation](https://github.com/wet-boew/wet-boew/wiki/v3.0.2-release-notes))
 * **La version 3.0.1 de la BOEW a été lancée le 9 octobre 2012** ([v3.0.1 - notes d'utilisation](https://github.com/wet-boew/wet-boew/wiki/v3.0.1-release-notes))
 * **La version 3.0.0 de la BOEW a été lancée le 17 septembre 2012** ([v3.0 - notes d'utilisation](https://github.com/wet-boew/wet-boew/wiki/v3.0-release-notes))
+
+/*test1*/
